@@ -63,3 +63,4 @@ plt.show()
 print(f"Accuracy (R² Score): {r2:.4f}")
 print(f"Mean Squared Error (MSE): {mse:.4f}")
 print(f"Root Mean Squared Error (RMSE): {rmse:.4f}")
+
