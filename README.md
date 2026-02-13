@@ -1,4 +1,4 @@
-# Zero-Day Vulnerability Detection – Machine Learning Comparison
+# Zero-Day Vulnerability Detection - Machine Learning Comparison
 
 A comparative study and implementation of Machine Learning and Deep Learning models for detecting Zero-Day vulnerabilities using static, behavioral, and hybrid detection approaches.
 
